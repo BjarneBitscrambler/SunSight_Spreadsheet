@@ -5,7 +5,7 @@ automates the process, so the user only needs to make the sextant reading, note 
 The Sun's GHA and Declination, which usually are produced from an almanac together with some hand calculations, are produced in the spreadsheet
 using three different methods:
 - Using a perpetual table, as shown in the book *Commonsense Celestial Navigation* Hewitt Schlereth, 1975
-- Using The Nautical Almanac (thenauticalalmanac.com) tables, valid to 2036
+- Using The Nautical Almanac [thenauticalalmanac.com] tables, valid to 2036
 - Using the formulae of the US Naval Observatory [https://aa.usno.navy.mil/faq/sun_approx]
 The user can instead enter their own values for GHA and Declination, obtained from whichever source they wish
 
